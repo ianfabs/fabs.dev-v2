@@ -1,0 +1,14 @@
+{
+  "name": "Feric",
+  "short_name": "feric",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#333",
+  "description": "A youtube music player",
+  "icons": [{
+    "src": "images/touch/homescreen48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }],
+  "related_applications": []
+}
